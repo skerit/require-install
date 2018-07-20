@@ -32,6 +32,6 @@
   "dependencies": {
     "descrevit": "^0.1.1",
     "dot-json": "^1.0.3",
-    "npm": "^2.10.0"
+    "npm": "^3.0.0"
   }
 }
